@@ -15,7 +15,7 @@ An Exploration of Indian Startup Funding Ecosystem
 * DAX for dynamic measures and calculated fields
 
 **Files:**
-- **startup_Project_Proposal.pdf**: Detailed analysis on Clustering of the customer segmentation and results.
+- **startupLens_Project_Proposal.pdf**: Detailed analysis on Clustering of the customer segmentation and results.
 - **raw_datasources/**: Contains the datasources of this project.
 - **cleaned_dataset/**: Contains the preprocessed and transformed dataset.
 - **dashboards/**: Contains visualization of the analyzed dataset.
